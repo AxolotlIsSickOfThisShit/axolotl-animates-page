@@ -12,3 +12,24 @@
     font-family: 'Determination Mono Web';
     src: url("DeterminationMonoWebRegular-Z5oq.otf");
 }
+
+body {
+    background-color: black;
+    font-family: "Determination Sans Web";
+    color: white;
+}
+
+h1 {
+    font-family:"Monster Friend Fore Regular";
+    color:white;
+    display:block;
+    text-align:center;
+    margin: 0 auto;
+}
+h2 {
+    font-family:"Determination Mono Web";
+    color:yellow;
+    display:block;
+    text-align:center;
+    margin: 0 auto;
+}
