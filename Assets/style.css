@@ -36,4 +36,6 @@ h2 {
 
 p {
     border: 5px solid white;
+    display: block;
+    margin: 5px 10px;
 }
