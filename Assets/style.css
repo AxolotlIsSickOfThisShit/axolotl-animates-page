@@ -20,18 +20,19 @@ body {
 }
 
 h1 {
-    font-family:"Monster Friend Fore Regular";
-    color:white;
-    display:block;
-    text-align:center;
+    font-family: "Monster Friend Fore Regular";
+    color: white;
+    display: block;
+    text-align: center;
     margin: 25px auto;
     font-size: 50px;
 }
+
 h2 {
-    font-family:"Determination Mono Web";
-    color:yellow;
-    display:block;
-    text-align:center;
+    font-family: "Determination Mono Web";
+    color: yellow;
+    display: block;
+    text-align: center;
     margin: 0 auto;
     font-size: 25px;
 }
@@ -41,15 +42,15 @@ p {
     display: block;
     margin: 5px 10px;
     font-size: 12;
+    padding: 10px;
 }
 
 b {
-    font-weight:normal;
+    font-weight: normal;
     color: yellow;
 }
 
 a {
-    text-decoration:dotted;
-    color:pink;
-
+    text-decoration: dotted;
+    color: hotpink;
 }
