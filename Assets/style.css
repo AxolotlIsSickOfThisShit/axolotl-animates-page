@@ -15,8 +15,6 @@
 
 body {
     background-color: black;
-    font-family: "Determination Mono Web";
-    color: white;
 }
 
 h1 {
@@ -43,6 +41,8 @@ p {
     margin: 5px 10px;
     font-size: 12;
     padding: 10px;
+    font-family: "Determination Mono Web";
+    color: white;
 }
 
 b {
