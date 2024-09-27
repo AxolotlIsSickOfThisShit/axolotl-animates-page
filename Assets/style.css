@@ -39,3 +39,14 @@ p {
     display: block;
     margin: 5px 10px;
 }
+
+b {
+    font-weight:normal;
+    color: yellow;
+}
+
+a {
+    text-decoration:dotted;
+    color:pink;
+
+}
