@@ -33,3 +33,7 @@ h2 {
     text-align:center;
     margin: 0 auto;
 }
+
+p {
+    border: 5px solid white;
+}
